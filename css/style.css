@@ -493,7 +493,7 @@ footer a{
 .link a{
     font-size: 1.3rem;
 }
-.link a:hover{
+.footer a:hover{
     background-color: transparent;
     color: grey;
 }
